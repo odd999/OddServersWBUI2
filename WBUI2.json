@@ -33,40 +33,22 @@
         }
       },
       {
-        "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
+
       },
       {
-        "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
+
       },
       {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
+
       },
       {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
+
       },
       {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
+
       },
       {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
-        }
+
       }
     ]
   }
