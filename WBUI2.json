@@ -7,7 +7,7 @@
         "IconURL": "https://i.imgur.com/cPgXLXB.jpg",
         "DisableIconText": false,
         "IconPosition": 0,
-        "IconTextColor": 6,
+        "IconTextColor": 7,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
@@ -38,39 +38,10 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "url": "https://discord.gg/euf67hvx5D"
         }
       },
       {
-        "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
-      },
-      {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
       {
         "link7": {
           "text": "Example JSON",
